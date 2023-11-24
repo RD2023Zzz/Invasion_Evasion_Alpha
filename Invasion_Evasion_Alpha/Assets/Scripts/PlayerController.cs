@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     public float horizontalInput;
     public float verticalInput;
     private float speed = 10.0f;
-    private float xRange = 16;
+    private float xRange = 14.0f;
     private float zRange = 7.0f;
 
     //Projectile
