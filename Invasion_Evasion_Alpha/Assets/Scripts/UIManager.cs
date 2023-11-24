@@ -30,7 +30,7 @@ public class UIManager : MonoBehaviour
 
     public Button urlButton;
     //Link to GitHub repository
-    private string URL = "https://github.com/Justin743/Invasion_Evasion_Alpha";
+    private string URL = "https://github.com/RD2023Zzz/Invasion_Evasion_Alpha";
 
 
 
